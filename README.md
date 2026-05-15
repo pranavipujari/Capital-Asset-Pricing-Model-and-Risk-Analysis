@@ -25,11 +25,11 @@ The analysis was executed entirely within **Microsoft Excel**, following a rigor
 
 ### 1. Cumulative Performance Dashboard
 This dashboard tracks the normalized price action of the constituents against the DAX Index to visualize relative strength.
-![Asset Performance Dashboard](preview.png)
+![Asset Performance Dashboard](preview)
 
 ### 2. The Security Market Line (SML)
 The SML plot identifies the equilibrium between risk and return. 
-![Security Market Line Plot](sml_plot.png)
+![Security Market Line Plot](preview2)
 
 
 
@@ -52,7 +52,15 @@ The model yielded the following strategic insights based on the 2020–2024 data
 ## 📂 Repository Contents
 * **`CAPM.xlsx`**: Full Excel model including regression outputs and interactive charts.
 * **`CAPM_Data.csv`**: Cleaned dataset of historical DAX constituent prices used for the model.
-* **`/visuals`**: High-resolution exports of the SML Plot and Performance Dashboards.
+* **`visuals`**: High-resolution exports of the SML Plot and Performance Dashboards.
 
 ---
+
+## 💻 Software Requirements
+- **Microsoft Excel** (2019 or later recommended)
+- **Excel Data Analysis Toolpak** (Enabled for OLS Regression)
+- **Power Query** (For data cleaning and transformation)
+
+---
+
 **Keywords:** `Quantitative-Finance` `CAPM` `Equity-Research` `Beta-Analysis` `SML` `Financial-Modeling` `DAX-Index` `Regression-Analysis`
