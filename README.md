@@ -25,11 +25,12 @@ The analysis was executed entirely within **Microsoft Excel**, following a rigor
 
 ### 1. Cumulative Performance Dashboard
 This dashboard tracks the normalized price action of the constituents against the DAX Index to visualize relative strength.
-![Chart](visuals/preview.png)
+![Asset Performance](visuals/preview.png.png)
+
 
 ### 2. The Security Market Line (SML)
 The SML plot identifies the equilibrium between risk and return. 
-![Security Market Line](visuals/SML.png)
+![Security Market Line](visuals/SML.plot.png.png)
 
 
 
