@@ -50,7 +50,7 @@ The model yielded the following strategic insights based on the 2020–2024 data
 ---
 
 ## 📂 Repository Contents
-* **`CAPM_Analysis_Model.xlsx`**: Full Excel model including regression outputs and interactive charts.
+* **`CAPM.xlsx`**: Full Excel model including regression outputs and interactive charts.
 * **`CAPM_Data.csv`**: Cleaned dataset of historical DAX constituent prices used for the model.
 * **`/visuals`**: High-resolution exports of the SML Plot and Performance Dashboards.
 
