@@ -25,7 +25,7 @@ The analysis was executed entirely within **Microsoft Excel**, following a rigor
 
 ### 1. Cumulative Performance Dashboard
 This dashboard tracks the normalized price action of the constituents against the DAX Index to visualize relative strength.
-![Asset Performance](visuals/Fundamental Assessment.png)
+![Asset Performance](visuals/Fundamental.Assessment.png)
 
 
 
