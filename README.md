@@ -30,7 +30,7 @@ This dashboard tracks the normalized price action of the constituents against th
 
 ### 2. The Security Market Line (SML)
 The SML plot identifies the equilibrium between risk and return. 
-![Security Market Line](visuals/SML.plot.png.png)
+![Security Market Line](visuals/SML.png.png)
 
 
 
